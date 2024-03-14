@@ -5,3 +5,7 @@ p, a {
 * {
     background-color: powderblue;
   }
+
+header {
+    z-index: 10;
+}
