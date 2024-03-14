@@ -6,3 +6,11 @@ p, a {
     background-color: powderblue;
   }
 
+  p, footer {
+    position: relative;
+    margin: 10px;
+  }
+
+header {
+    position: fixed;
+}
