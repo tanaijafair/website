@@ -7,5 +7,6 @@ p, a {
   }
 
 header {
-    z-index: 10;
+    position: fixed;
+    display: inline-block;
 }
