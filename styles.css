@@ -6,12 +6,10 @@ p, a {
     background-color: powderblue;
   }
 
-/*p, footer {
-    position: relative;
-    margin: 10px;
+p, footer {
+    margin: 0 auto;
   }
 
 header {
     position: fixed;
 }
-*/
