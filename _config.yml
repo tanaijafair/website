@@ -27,7 +27,7 @@ url: "https://tanaijafair.github.io" # the base hostname & protocol for your sit
 github_username:  tanaijafair
 
 # Build settings
-theme: jekyll-theme-hacker # not working atm
+theme: jekyll-theme-hacker
 plugins:
   - jekyll-feed
 
